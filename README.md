@@ -1,4 +1,4 @@
-﻿### Process Bitmap capture
+﻿### MEmu Image Capture
 
 This is an example of how to capture an image of the Memu Android Emulator window.
 
