@@ -1,0 +1,17 @@
+F:\GitHub\MemuScreenCaptureExample\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\GitHub\MemuScreenCaptureExample\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\GitHub\MemuScreenCaptureExample\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\GitHub\MemuScreenCaptureExample\WindowsFormsApp1\bin\Debug\Camalot.Common.dll
+F:\GitHub\MemuScreenCaptureExample\WindowsFormsApp1\bin\Debug\Managed.Adb.dll
+F:\GitHub\MemuScreenCaptureExample\WindowsFormsApp1\bin\Debug\MoreLinq.dll
+F:\GitHub\MemuScreenCaptureExample\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+F:\GitHub\MemuScreenCaptureExample\WindowsFormsApp1\bin\Debug\Managed.Adb.pdb
+F:\GitHub\MemuScreenCaptureExample\WindowsFormsApp1\bin\Debug\Managed.Adb.xml
+F:\GitHub\MemuScreenCaptureExample\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+F:\GitHub\MemuScreenCaptureExample\WindowsFormsApp1\obj\Debug\MemuScreenCapture.csprojResolveAssemblyReference.cache
+F:\GitHub\MemuScreenCaptureExample\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\GitHub\MemuScreenCaptureExample\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\GitHub\MemuScreenCaptureExample\WindowsFormsApp1\obj\Debug\MemuScreenCapture.csproj.GenerateResource.Cache
+F:\GitHub\MemuScreenCaptureExample\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\GitHub\MemuScreenCaptureExample\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\GitHub\MemuScreenCaptureExample\WindowsFormsApp1\bin\Debug\MoreLinq.xml

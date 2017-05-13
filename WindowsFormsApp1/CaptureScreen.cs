@@ -15,7 +15,7 @@
             public int right;
             public int bottom;
         }
-
+        
         [DllImport("user32.dll")]
         public static extern IntPtr GetWindowRect(IntPtr hWnd, ref Rect rect);
 
