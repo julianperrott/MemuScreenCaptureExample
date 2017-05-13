@@ -1,6 +1,6 @@
 ﻿### Process Bitmap capture
 
-This is an example of how to capture a Bitmap the window of Memu (or any Process)
+This is an example of how to capture an image of the Memu Android Emulator window.
 
 Note: GetWindowRect only works if the process is on top i.e. not behind other windows.
 
